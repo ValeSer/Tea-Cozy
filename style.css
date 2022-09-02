@@ -35,8 +35,8 @@ body {
     text-decoration: underline;
 }
 
-.container-mission {
-    
+.mission-image {
+    height: 700px;
 }
 
 .mission, .featured-tea {
