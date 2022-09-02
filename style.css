@@ -35,7 +35,9 @@ body {
     text-decoration: underline;
 }
 
-
+.main container {
+    align-items: center;
+}
 .mission-image {
     height: 700px;
 }
