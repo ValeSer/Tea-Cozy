@@ -38,6 +38,8 @@ body {
 
 .main-container {
     text-align: center;
+    display: flex;
+    flex-direction: column;
 }
 
 .container-mission {
