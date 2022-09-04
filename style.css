@@ -88,20 +88,18 @@ body {
 
 .container-location {
     height: 500px;
+    width: 1200px;
     position: relative;
+    background-image: url("images/img-locations-background.jpeg");
 }
 
 .locs-container {
-    position: absolute;
-    top: 70%;
-    left: 50%;
-    transform: translate(-50%, -50%);
 
 }
 
 
 .locs {
-    height: 300px;
+    width: 300px;
     background-color: black;
 }
 .loc-text {
