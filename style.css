@@ -116,3 +116,7 @@ body {
 .loc-text {
     justify-content: center;
 }
+
+.contacts-container {
+    height: 200px;
+}
