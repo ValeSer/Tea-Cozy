@@ -110,6 +110,7 @@ body {
 .locs {
     width: 300px;
     background-color: black;
+    opacity: 1;
 }
 
 .loc-text {
