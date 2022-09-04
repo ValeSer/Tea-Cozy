@@ -19,9 +19,9 @@ body {
     align-items: center;
     background-color: black;
     z-index: 1000;
-  }
+}
 
-  .logo {
+.logo {
     height: 50px;
     margin-left: 10px;
 }
