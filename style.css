@@ -85,3 +85,11 @@ body {
     display: block;
     padding: 10px;
 }
+
+.container-location {
+    height: 500px;
+}
+
+.locs {
+    height: 300px;
+}
